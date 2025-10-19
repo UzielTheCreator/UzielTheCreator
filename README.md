@@ -55,7 +55,7 @@ SOON!!!
 
 
 [![Email](https://img.shields.io/badge/Email-yuortizem3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuortizem3@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yamil_Ortiz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Uziel-The-Creator)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yamil_Ortiz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yamil-ortiz-37a45138b)
 [![GitHub](https://img.shields.io/badge/GitHub-UzielTheCreator-181717?style=for-the-badge&logo=github)](https://github.com/UzielTheCreator)
 [![Instagram](https://img.shields.io/badge/Instagram-@axoziel__thecreator-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/axoziel_thecreator/)
 
